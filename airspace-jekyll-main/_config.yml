@@ -18,9 +18,9 @@ title: Airspace
 subtitle: "A free HTML5 agency template"
 url: "https://asmartinez.github.io/jekyll" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/jekyll/airspace-jekyll-main"
-cover: "/jekyll/airspace-jekyll-main/assets/cover.png"
-logo: "/jekyll/airspace-jekyll-main/assets/logo.png"
+baseurl: "/airspace-jekyll-main"
+cover: "/airspace-jekyll-main/assets/cover.png"
+logo: "/airspace-jekyll-main/assets/logo.png"
 
 # Build settings
 markdown: kramdown
